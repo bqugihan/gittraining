@@ -1,2 +1,0 @@
-# gittraining
-gittraining 123
